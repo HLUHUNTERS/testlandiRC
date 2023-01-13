@@ -14150,7 +14150,7 @@ b, strong {
   color: #555555;
 }
 #testimonial .features {
- 
+  height: 270px !important;
   cursor: pointer;
   background-color: #ffffff;
 }
