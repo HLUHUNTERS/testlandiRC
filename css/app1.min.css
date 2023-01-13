@@ -13083,7 +13083,7 @@ b, strong {
   }
 }
 .section {
-  padding: 70px 0;
+  padding: 50px 0;
   position: relative;
 }
 
@@ -13997,7 +13997,7 @@ b, strong {
   font-style: normal;
   font-weight: bold;
   font-size: 38px;
-  line-height: 50px;
+  line-height: 40px;
   letter-spacing: 0.005em;
   color: #1b1b46;
   text-transform: capitalize;
@@ -14151,7 +14151,7 @@ b, strong {
   color: #555555;
 }
 #testimonial .features {
-  height: 380px !important;
+ 
   cursor: pointer;
   background-color: #ffffff;
 }
@@ -14248,7 +14248,7 @@ b, strong {
   }
 
   #testimonial .features {
-    height: 430px !important;
+  
   }
 
   .bg-home, .bg-half-170, .bg-half-260, .main-slider .slides .bg-slider, .bg-marketing, .swiper-slider-hero .swiper-container .swiper-slide {
@@ -15846,7 +15846,7 @@ b, strong {
 }
 .footer {
   background: #1b1d1c;
-  padding: 50px 0;
+  padding: 30px 0;
   position: relative;
   color: #dee2e6;
 }
